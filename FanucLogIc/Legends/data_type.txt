@@ -1,0 +1,5 @@
+﻿0	:	Byte type
+1	:	Word type
+2	:	Long type
+4	:	32-bit floating-point type(30i-B Series/0i-F/PMi-A only)
+5	:	64-bit floating-point type(30i-B Series/0i-F/PMi-A only)

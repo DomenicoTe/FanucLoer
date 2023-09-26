@@ -1,0 +1,20 @@
+﻿G (Output signal from PMC to CNC)
+G (Output signal from PMC to CNC)
+F (Input signal to PMC from CNC)
+Y (Output signal to PMC from machine)
+X (Input signal from PMC to machine)
+A (Message display) *Display request
+A (Message display) *Display status
+R (Internal relay)
+R (System relay)
+T (Timer) *Variable timer
+T (Timer) *Variable timer precision(Note2)
+K (Keep relay) *User range
+K (Keep relay) *System range
+C (Counter) *Variable counter
+C (Counter) *Fixed counter
+D (Data table)
+M (Input signal from other PMC path)
+N (Output signal to other PMC path)
+E (Extra relay)
+Z (System relay)
